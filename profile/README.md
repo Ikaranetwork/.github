@@ -1,8 +1,10 @@
-##               Ikara Network ⚔️
+##              	 Ikara Network
+
+!--
+
+Ikara Network is a network dedicated to provide a competitive and casual experience to its player base!
 
 <!--
-
-**Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
