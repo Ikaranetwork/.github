@@ -6,8 +6,8 @@ Ikara Network is a network dedicated to provide a competitive and casual experie
 
 
 ## 🎮 **Getting Started**
-● [Forums](https://ikara.gg/)
-● [Store](https://store.ikara.gg/)
+● [Forums](https://ikara.gg/) \n
+● [Store](https://store.ikara.gg/) \
 ● [FAQ](https://ikara.gg/discord)
 
 ## 🖥️ **Socials**
