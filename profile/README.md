@@ -1,4 +1,4 @@
-![ikarasmallsize](https://github.com/Ikaranetwork/.github/assets/88911282/c594f1d5-805e-43ed-a0b6-b713acd3fe42)
+![s](https://github.com/Ikaranetwork/.github/assets/88911282/dd6bdc54-9c79-4822-b51f-2c88f4e25dc2)
 
 ##              						 Ikara Network
 
